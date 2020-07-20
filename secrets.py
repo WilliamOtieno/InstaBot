@@ -1,1 +1,1 @@
-password = 'shadowwalker101'
+password = 'your_password'
